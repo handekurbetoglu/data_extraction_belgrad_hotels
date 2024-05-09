@@ -16,8 +16,8 @@ pip install beautifulsoup4 requests pandas matplotlib numpy fake_useragent
 Usage
 To execute the script, navigate to the script's directory and run:
 
+scraping_bookingcom_belgrad.ipynb
 
-python booking_scraper.py
 Ensure you have an internet connection as the script needs to access Booking.com to retrieve data.
 
 Data Collection
